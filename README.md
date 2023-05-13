@@ -8,11 +8,11 @@
 ## 👨‍💻‍ Author
 
 #### Yousry Essam 
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Yousry-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/yousryessam/)
 
 Follow me on GitHub:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hmz-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/YousryEssam)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Yousry-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/YousryEssam)
 
 Copyright (c) 2023 Yousry Essam 
